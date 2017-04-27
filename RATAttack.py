@@ -147,7 +147,7 @@ def handle(msg):
 
 def checkchat_id(chat_id):
 	# REPLACE '123456' WITH YOUR ACTUAL chat_id!
-	known_ids = ['124356']
+	known_ids = ['331963934:AAHx07GAQdejEtNgOugg1ABazUFGYKn25B8']
 	# COMMENT THE LINE 'return True'!
 	return True
 
